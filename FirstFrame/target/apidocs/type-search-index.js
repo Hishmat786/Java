@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.mycompany.firstframe","l":"FirstFrame"},{"p":"com.mycompany.firstframe","l":"SecondFrame"}];updateSearchResults();
